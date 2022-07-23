@@ -16,8 +16,8 @@
 
 <p align="center">
 <a href="https://github.com/jessicaarf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicaarf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaarf&layout=compact&langs_count=7&theme=dracula"/>
+  <img widht: 42% height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicaarf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img widht:42% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaarf&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 </p>
 
@@ -25,5 +25,3 @@
 <a href = "jessicalealarf8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jessica-arf-5492b5177" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </div>
-
-![Snake animation](https://github.com/rafaballerini/jessicaarf/blob/output/github-contribution-grid-snake.svg)
