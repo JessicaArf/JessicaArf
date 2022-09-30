@@ -19,12 +19,11 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 <br>
-<div>
-<p align="center">
 <a href="https://github.com/jessicaarf">
-  <img widht: 42% height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicaarf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img widht:36% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaarf&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicaarf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaarf&layout=compact&langs_count=7&theme=dracula"/>
 </a>
-</p>
+
 </div>
 
 <div>
