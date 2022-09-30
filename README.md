@@ -5,7 +5,7 @@
 **About me**
 
 💡 &nbsp;I am passionate about Web Dev & I enjoy learning new things.\
-🎓 &nbsp;I'm currently studying JavaScript.
+🎓 &nbsp;I'm currently studying react.
 
 ### 🛠 &nbsp;Tech Stack
  
