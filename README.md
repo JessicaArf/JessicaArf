@@ -12,11 +12,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"/>
 
 
 <p align="center">
 <a href="https://github.com/jessicaarf">
-  <img widht: 25% height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicaarf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img widht: 48% height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicaarf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img widht:42% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaarf&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 </p>
