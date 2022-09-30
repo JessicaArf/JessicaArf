@@ -7,12 +7,6 @@
 💡 &nbsp;I am passionate about Web Dev & I enjoy learning new things.\
 🎓 &nbsp;I'm currently studying react.
 
-<div align="center">
-  <a href="https://github.com/jessicaarf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicaarf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaarf&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ### 🛠 &nbsp;Tech Stack
  
  <div>
@@ -26,6 +20,12 @@
 </div>
 <br>
 
+<div align="center">
+  <a href="https://github.com/jessicaarf">
+  <img width="42%" height="160em" src="https://github-readme-stats.vercel.app/api?username=jessicaarf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="50%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaarf&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<br>
 
 <div>
 <a href = "mailto:jessicalealarf8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
