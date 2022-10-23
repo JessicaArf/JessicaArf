@@ -1,5 +1,5 @@
      
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Jessica Arf!](https://www.linkedin.com/in/jessica-arf-5492b5177) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Jessica Arf!](https://www.linkedin.com/in/jessica-arf) 
 
 
 **About me**
