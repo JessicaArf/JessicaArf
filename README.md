@@ -10,7 +10,7 @@
 </div>
 <h2 align="left"> 💭 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 💭</h2>
      
- - I am passionate about Web Dev & I enjoy learning new things.\
+ - I am passionate about Web Dev & I enjoy learning new things.
  - I'm currently studying react.
 
 </div>
