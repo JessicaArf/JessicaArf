@@ -1,22 +1,22 @@
      
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=50&pause=2000&color=E974AF&background=FFFFFF00&center=true&vCenter=true&width=1000&height=60&lines=Hey%2C+I'm+Jessica!)](https://git.io/typing-svg)
 
-<h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center">𝓑𝓮𝓶-𝓿𝓲𝓷𝓭𝓸 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 <div>
 <br>
  <div align="center" height="300">
 <img src="https://i.pinimg.com/originals/61/2b/8c/612b8c27f15c63c08052d8de2c1bb15b.gif" align="right" widht="200" height="300">
 </div>
-<h2 align="left"> 💭 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 💭</h2>
+<h2 align="left"> 💭 𝓢𝓸𝓫𝓻𝓮 𝓶𝓲𝓶 💭</h2>
      
- - I'm passionate about Web Dev & I enjoy learning new things.
- - I'm a software engineering student.
+ - Sou apaixonada por desenvolvimento web e gosto de aprender coisas novas.
+ - Sou estudante de Engenharia de Software.
 
 </div>
 <br><br>
 
-<h2 align="left">📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇</h2>
+<h2 align="left">📇 𝓒𝓸𝓷𝓱𝓮𝓬𝓲𝓶𝓮𝓷𝓽𝓸𝓼 📇</h2>
  <div>
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
